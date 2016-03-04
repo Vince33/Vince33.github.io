@@ -12,10 +12,6 @@ header .navbar-brand h1 {
 #home {
   padding-top: 126px; }
 
-p.aboutMePara {
-  margin: 0;
-  padding: 2em 0; }
-
 .home-name {
   display: none; }
 
@@ -226,6 +222,7 @@ p.aboutMePara {
 
   .aboutMePara {
     font-size: 1.2em;
+    margin: 1em;
     padding: 1.5em; }
 
   #portfolio {
