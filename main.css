@@ -12,6 +12,10 @@ header .navbar-brand h1 {
 #home {
   padding-top: 126px; }
 
+p.aboutMePara {
+  margin: 0;
+  padding: 2em 0; }
+
 .home-name {
   display: none; }
 
